@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import FilmDetails from './Component/FilmDetails'
 import FilmList from './Component/FilmList'
 import TMDB from './TMDB';
+
 
 class App extends Component {
   render() {
